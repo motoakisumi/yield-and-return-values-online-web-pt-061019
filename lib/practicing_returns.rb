@@ -19,6 +19,4 @@ def hello(array)
   collection
 end
 
-
-
 hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
